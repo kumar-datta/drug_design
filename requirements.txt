@@ -7,3 +7,4 @@ rdkit
 pillow
 joblib
 scikit-learn
+gunicorn
