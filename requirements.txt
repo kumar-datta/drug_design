@@ -7,5 +7,3 @@ rdkit
 pillow
 joblib
 scikit-learn
-
-fastapi uvicorn pydantic numpy torch rdkit pillow joblib scikit-learn
